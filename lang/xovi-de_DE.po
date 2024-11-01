@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xoviWpSuite\n"
+"POT-Creation-Date: 2015-06-10 13:50+0100\n"
+"PO-Revision-Date: 2015-06-10 13:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: xovi Team <support@xovi.de>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ../.\n"
+
+#: .././xovi_apiconnect.php:34
+msgid "cURL is not available"
+msgstr "cURL ist nicht verfügbar"
+
+#: .././xovi_backlinks.php:2 .././xoviplugin.php:68
+msgid "Backlinks"
+msgstr "Backlinks"
+
+#: .././xovi_backlinks.php:35 .././xovi_backlinks.php:43
+msgid "Backlink"
+msgstr "Backlink"
+
+#: .././xovi_backlinks.php:36 .././xovi_backlinks.php:44
+msgid "Anchor"
+msgstr "Ankertext"
+
+#: .././xovi_backlinks.php:37 .././xovi_backlinks.php:45
+msgid "Website Title"
+msgstr "Titel der Webseite"
+
+#: .././xovi_backlinks.php:38 .././xovi_backlinks.php:46
+msgid "Links"
+msgstr "Links"
+
+#: .././xovi_backlinks.php:83
+msgid "This Domain has no backlinks!"
+msgstr "Diese Domain hat keine Backlinks!"
+
+#: .././xovi_credittable.php:4 .././xovi_socialsignals.php:20
+msgid "Title"
+msgstr "Titel"
+
+#: .././xovi_credittable.php:5 .././xovi_socialsignals.php:21
+msgid "Value"
+msgstr "Wert"
+
+#: .././xovi_credittable.php:25
+msgid "Credits total"
+msgstr "Credits gesamt"
+
+#: .././xovi_credittable.php:33
+msgid "Credits used"
+msgstr "Credits benutzt"
+
+#: .././xovi_credittable.php:41
+msgid "Credits left"
+msgstr "Credits übrig"
+
+#: .././xovi_credittable.php:54
+msgid "No API-Token found!"
+msgstr "Kein API-Token gefunden!"
+
+#: .././xovi_dashboard_widget.php:8
+msgid "Kein API-Token hinterlegt!"
+msgstr ""
+
+#: .././xovi_dashboard_widget.php:80 .././xovi_seo.php:36
+msgid "No Data available!"
+msgstr "Keine Daten verfügbar!"
+
+#: .././xovi_dashboard_widget.php:94 .././xovi_dashboard_widget.php:102
+#: .././xovi_lostkeywords.php:53 .././xovi_lostkeywords.php:59
+#: .././xovi_monitoring.php:66 .././xovi_monitoring.php:77
+#: .././xovi_rankings.php:82 .././xovi_rankings.php:89
+#: .././xovi_wonkeywords.php:53 .././xovi_wonkeywords.php:59
+msgid "Keyword"
+msgstr "Keyword"
+
+#: .././xovi_dashboard_widget.php:95 .././xovi_dashboard_widget.php:103
+#: .././xovi_lostkeywords.php:54 .././xovi_lostkeywords.php:60
+#: .././xovi_monitoring.php:67 .././xovi_monitoring.php:78
+#: .././xovi_rankings.php:83 .././xovi_rankings.php:90
+#: .././xovi_wonkeywords.php:54 .././xovi_wonkeywords.php:60
+msgid "Position"
+msgstr "Position"
+
+#: .././xovi_dashboard_widget.php:97 .././xovi_dashboard_widget.php:105
+#: .././xovi_monitoring.php:69 .././xovi_monitoring.php:80
+#: .././xovi_rankings.php:84 .././xovi_rankings.php:91
+msgid "URL"
+msgstr "URL"
+
+#: .././xovi_dashboard_widget.php:133 .././xovi_monitoring.php:117
+msgid "No keywords defined for this domain"
+msgstr "Für diese Domain wurden keine Keywords hinterlegt"
+
+#: .././xovi_dashboard_widget.php:133 .././xovi_monitoring.php:117
+msgid "Add keywords to monitore here!"
+msgstr "Hier können Sie Keywords zur Überwachung hinzufügen!"
+
+#: .././xovi_functions.php:14
+msgid "Not enough Credits!"
+msgstr "Nicht genügend Credits vorhanden!"
+
+#: .././xovi_functions.php:31
+msgid "&lArr; back to summary"
+msgstr "&lArr; zur&uuml;ck zur &Uuml;bersicht"
+
+#: .././xovi_functions.php:37
+msgid "Previous Records"
+msgstr "Vorherige Ergebnisse"
+
+#: .././xovi_functions.php:38
+msgid "Next Records"
+msgstr "Weitere Ergebnisse"
+
+#: .././xovi_functions.php:242
+msgid "Week Number: "
+msgstr "Kalenderwoche"
+
+#: .././xovi_lostkeywords.php:4 .././xoviplugin.php:63
+msgid "Lostkeywords"
+msgstr "Verlorene Keywords"
+
+#: .././xovi_lostkeywords.php:20
+msgid "Lostkeywords - Summary"
+msgstr "Verlorene Keywords - Übersicht"
+
+#: .././xovi_lostkeywords.php:90 .././xovi_pages.php:87
+#: .././xovi_socialsignals.php:73 .././xovi_wonkeywords.php:90
+msgid "No keywords found!"
+msgstr "Keine Keywords gefunden!"
+
+#: .././xovi_monitoring.php:2 .././xoviplugin.php:67
+msgid "Keyword Monitoring"
+msgstr "Keyword Monitoring"
+
+#: .././xovi_monitoring.php:51 .././xovi_rankings.php:43
+msgid "No data available for this Keyword!"
+msgstr "Für dieses Keyword stehen keine Daten zu Verfügung!"
+
+#: .././xovi_monitoring.php:70 .././xovi_monitoring.php:81
+#: .././xovi_preferences.php:81
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: .././xovi_monitoring.php:71 .././xovi_monitoring.php:82
+msgid "Refreshed"
+msgstr "Aktualisiert"
+
+#: .././xovi_monitoring.php:72 .././xovi_monitoring.php:83
+msgid "Universal Search"
+msgstr "Universal Search"
+
+#: .././xovi_pages.php:4 .././xoviplugin.php:65
+msgid "pages"
+msgstr "Unterseiten"
+
+#: .././xovi_pages.php:20
+msgid "Pages - Summary"
+msgstr "Unterseite - Übersicht"
+
+#: .././xovi_pages.php:53 .././xovi_pages.php:58
+msgid "page"
+msgstr "Unterseite"
+
+#: .././xovi_preferences.php:2 .././xoviplugin.php:60
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: .././xovi_preferences.php:18
+msgid "Settings Saved!"
+msgstr "Einstellungen gespeichert!"
+
+#: .././xovi_preferences.php:32
+msgid "General Settings"
+msgstr "Allgemein"
+
+#: .././xovi_preferences.php:38
+msgid "Domain"
+msgstr "Domain"
+
+#: .././xovi_preferences.php:42
+msgid "API - Token"
+msgstr "API - Token"
+
+#: .././xovi_preferences.php:44
+msgid "No API-Token, yet? - "
+msgstr "Noch kein API-Token? - "
+
+#: .././xovi_preferences.php:44
+msgid "Get your API-Token here!"
+msgstr "Hier erhalten sie einen!"
+
+#: .././xovi_preferences.php:48
+msgid "Search Engines"
+msgstr "Suchmaschinen"
+
+#: .././xovi_preferences.php:60
+msgid "Choose search engines that will be considered."
+msgstr "Wählen sie hier, welche Suchmaschinen berücksichtigt werden."
+
+#: .././xovi_preferences.php:65
+msgid "Charts"
+msgstr "Diagramme"
+
+#: .././xovi_preferences.php:71
+msgid "Number of Weeks"
+msgstr "Anzahl Wochen"
+
+#: .././xovi_preferences.php:73
+msgid "Choose the number of weeks being shown in the chart."
+msgstr "Hier legen Sie fest, wie viele Wochen das Diagramm anzeigen soll."
+
+#: .././xovi_preferences.php:87
+msgid "Number of Results"
+msgstr "Ergebnisse"
+
+#: .././xovi_preferences.php:89
+msgid "Choose the number of results you want to get."
+msgstr "Hier legen Sie fest, wie viele Ergebnisse angezeigt werden sollen."
+
+#: .././xovi_preferences.php:94
+msgid "Dashboard Widget"
+msgstr "Dashboard Widget"
+
+#: .././xovi_preferences.php:100
+msgid "Dashboard Widgets"
+msgstr "Dashboard Widgets"
+
+#: .././xovi_preferences.php:103
+msgid "Show Credits"
+msgstr "Credits anzeigen"
+
+#: .././xovi_preferences.php:105
+msgid "Show Monitoring"
+msgstr "Keyword Monitoring anzeigen"
+
+#: .././xovi_preferences.php:107
+msgid "Show SEO Trends"
+msgstr "SEO Trends anzeigen"
+
+#: .././xovi_preferences.php:108
+msgid "Choose which tool you want to add to the dashboard."
+msgstr ""
+"Wählen Sie hier, welche Tools sie auf dem Dashboard angezeigt bekommen "
+"wollen."
+
+#: .././xovi_preferences.php:113
+msgid "save changes"
+msgstr "Änderungen übernehmen"
+
+#: .././xovi_preferences.php:122
+msgid "Credits"
+msgstr "Credits"
+
+#: .././xovi_rankings.php:4 .././xovi_rankings.php:39
+#: .././xoviplugin.php:62
+msgid "Rankings"
+msgstr "Rankings"
+
+#: .././xovi_rankings.php:49
+msgid "Rankings - Summary"
+msgstr "Rankings - &Uuml;bersicht"
+
+#: .././xovi_rankings.php:128
+msgid "No rankings found!"
+msgstr "Keine Rankings gefunden!"
+
+#: .././xovi_rankingvalue.php:4 .././xovi_rankingvalue.php:13
+#: .././xoviplugin.php:66
+msgid "Rankingvalue"
+msgstr "Rankingvalue"
+
+#: .././xovi_rankingvalue.php:41
+msgid "No Rankingvalue found!"
+msgstr "Kein Rankingvalue gefunden!"
+
+#: .././xovi_reporting.php:2 .././xoviplugin.php:69
+msgid "Reportings"
+msgstr "Reportings"
+
+#: .././xovi_reporting.php:21
+msgid "Report"
+msgstr "Report"
+
+#: .././xovi_reporting.php:22
+msgid "Data basis"
+msgstr "Datenbasis"
+
+#: .././xovi_reporting.php:24
+msgid "Search Engine"
+msgstr "Suchmaschine"
+
+#: .././xovi_reporting.php:47
+msgid "Download Report"
+msgstr "Report Herunterladen"
+
+#: .././xovi_reporting.php:55
+msgid "There are no reports created, yet!"
+msgstr "Bisher wurden keine Reports angelegt!"
+
+#: .././xovi_reporting.php:55
+msgid "Click Here to create a Report!"
+msgstr "Hier können sie einen erstellen!"
+
+#: .././xovi_seo.php:2 .././xoviplugin.php:61
+msgid "SEO Trends"
+msgstr "SEO Trends"
+
+#: .././xovi_socialsignals.php:4
+msgid "Social Signals"
+msgstr "Social Signals"
+
+#: .././xovi_socialsignals.php:10
+msgid "Social Signals - Summary"
+msgstr "Social Signals - Übersicht"
+
+#: .././xovi_socialsignals.php:29
+msgid "Facebook Likes"
+msgstr "Facebook Likes"
+
+#: .././xovi_socialsignals.php:37
+msgid "Facebook Shares"
+msgstr "Facebook Shares"
+
+#: .././xovi_socialsignals.php:45
+msgid "Facebook Comments"
+msgstr "Facebook Comments"
+
+#: .././xovi_socialsignals.php:53
+msgid "Tweets"
+msgstr "Tweets"
+
+#: .././xovi_socialsignals.php:61
+msgid "Google plus"
+msgstr "Google Plus"
+
+#: .././xovi_wonkeywords.php:4 .././xoviplugin.php:64
+msgid "Wonkeywords"
+msgstr "Gewonnene Keywords"
+
+#: .././xovi_wonkeywords.php:20
+msgid "Wonkeywords - Summary"
+msgstr "Gewonnene Keywords - Übersicht"
+
+#: .././xoviplugin.php:70
+msgid "Signals"
+msgstr "Social Signals"
+
+#~ msgid "Finished"
+#~ msgstr "Erstellt am"

@@ -1,0 +1,76 @@
+/* 
+    Document   : xovi_style
+    Created on : 12.04.2013, 11:02:58
+    Author     : Tobias Haase
+    Description:
+        CSS Styles for xovi Wordpress Suite.
+*/
+
+
+.xovichart {
+    border:1px solid #808080;
+    margin:12px 60px;
+    box-shadow: 2px 2px 4px #aaaaaa;
+    padding-top:6px;
+}
+
+.xovichart_dashboard {
+    
+    border:1px solid #808080;
+    /*margin:0px auto;*/
+    box-shadow: 2px 2px 4px #aaaaaa;
+}
+
+.xovi_positionArrow {
+    display:inline-block;
+    margin:0px auto;
+    width: 10px;
+    height: 12px;
+    background-image: url('../images/xovi_arrows.gif');
+    background-position: 0px 0px; 
+}
+
+.xovi_positionArrow.up {
+    background-position: 10px 0px;
+}
+
+.xovi_positionArrow.down {
+   background-position: 22px 0px;   
+}
+
+.xovi_longColumn {
+    width:300px;    
+}
+.xovi_mediumColumn {
+        
+}
+.xovi_shortColumn {
+    width:60px;    
+}
+
+.xovi_monitoringRow td{
+    vertical-align:middle;    
+}
+
+.xovi_viewReport {
+    display:inline-block;
+    width: 20px; height:20px;
+    background: transparent url('../images/view.png') no-repeat left top;
+}
+
+.xovi_getReport {
+    display:inline-block;
+    width: 16px; height:16px; 
+    background: transparent url('../images/download.png') no-repeat left top;
+}
+
+div#xovi_rankingvalue {
+    position: fixed;
+    width: 400px; 
+    height: 128px;
+    left: 50%;
+    margin-left: -300px;  
+    top: 50%;
+    margin-top: -250px;   
+    background-color:#fff;
+}
